@@ -1,3 +1,5 @@
 *.smvst.com
+wsc.forcepoint.abdigital.com
+^wsc.forcepoint.abdigital.com
 smvst.com
 ^smvst.com
